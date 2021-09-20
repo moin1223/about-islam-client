@@ -1,0 +1,28 @@
+.login {
+    text-align: center;
+}
+
+.login-box{
+    margin-top: 100px
+}
+
+.login-btn {
+    border-radius: 30px;
+    padding: 10px 100px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.login-btn img {
+    margin-right: 50px;
+}
+.form-login{
+   
+    border-radius: 10px;
+    padding: 20x;
+    margin:100px 100px 0px 30%;
+    max-width: 450px;
+    width:100%;
+    height:100%;
+}
